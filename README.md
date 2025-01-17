@@ -3,7 +3,8 @@
 ## Overview
 This project focuses on analyzing the powerlifting records dataset provided by OpenPowerlifting. The primary goal is to enhance understanding of the sport through data analysis and visualization, ultimately aiming to promote awareness of powerlifting.
 
-You can watch a youtube video on my visualization here:
+**You can watch a youtube video on my visualization here:**
+
 https://youtu.be/gJ_-qDPUjxk
 
 ![alt text](image.png)
