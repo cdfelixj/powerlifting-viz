@@ -6,6 +6,9 @@ This project focuses on analyzing the powerlifting records dataset provided by O
 You can watch a youtube video on my visualization here:
 https://youtu.be/gJ_-qDPUjxk
 
+![alt text](image.png)
+![alt text](image-1.png)
+
 ## Objectives
 The main objectives of this project include:
 
